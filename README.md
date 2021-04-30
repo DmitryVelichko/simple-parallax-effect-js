@@ -5,5 +5,5 @@ Simple Parallax Scrolling Effect with CSS and JS.
 
 ![image](https://user-images.githubusercontent.com/42185328/116666309-786b6680-a9a3-11eb-8417-689a33e7cc7c.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/42185328/116666405-96d16200-a9a3-11eb-8268-2e4b1db39adc.png)
 
